@@ -1,4 +1,4 @@
-# 🧠 BizMind — AI Business Advisor
+# 🧠 BizMind - AI Business Advisor
 
 An autonomous AI agent for small business owners built with LangChain, Groq & Streamlit.
 
